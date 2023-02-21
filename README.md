@@ -2,7 +2,7 @@
 Peramalan Waktu Pengiriman Outbound Menggunakan RandomForestRegressor
 
 <h2>Cover Buku</h2>
-<img src="https://user-images.githubusercontent.com/61817589/220262119-70074c49-5c77-45db-88d7-8e8407fa619d.png" alt="Cover Depan"></img>
+<img src="https://user-images.githubusercontent.com/61817589/220262119-70074c49-5c77-45db-88d7-8e8407fa619d.png" alt="Cover Depan" width="500px"></img>
 
 <h2>Penulis</h2>
 <p>Helmi Salsabila</p>
