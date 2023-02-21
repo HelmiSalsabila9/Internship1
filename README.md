@@ -2,10 +2,11 @@
 Peramalan Waktu Pengiriman Outbound Menggunakan RandomForestRegressor
 
 <h2>Cover Buku</h2>
-![Peramalan](https://user-images.githubusercontent.com/61817589/220260475-247a802a-06fb-4460-b0d4-f7b3c3c94a8b.png)
+<img src="https://user-images.githubusercontent.com/61817589/220260475-247a802a-06fb-4460-b0d4-f7b3c3c94a8b.png" alt="Cover Depan"></img>
 
 <h2>Penulis</h2>
-<img src="https://user-images.githubusercontent.com/61817589/220260661-1ab50ad8-6f75-4320-ada3-4235f5a59fa7.jpg" alt="Helmi Salsabila" width="100px"></img>
+<p>Helmi Salsabila</p>
+<img src="https://user-images.githubusercontent.com/61817589/220260661-1ab50ad8-6f75-4320-ada3-4235f5a59fa7.jpg" alt="Helmi Salsabila" width="500px"></img>
 
 <h1>Peramalan Waktu Pengiriman Outbound Menggunakan Random Forest Regressor</h1>
 
