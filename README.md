@@ -5,7 +5,7 @@ Peramalan Waktu Pengiriman Outbound Menggunakan RandomForestRegressor
 ![Peramalan](https://user-images.githubusercontent.com/61817589/220260475-247a802a-06fb-4460-b0d4-f7b3c3c94a8b.png)
 
 <h2>Penulis</h2>
-https://user-images.githubusercontent.com/61817589/220260661-1ab50ad8-6f75-4320-ada3-4235f5a59fa7.jpg
+<img src="https://user-images.githubusercontent.com/61817589/220260661-1ab50ad8-6f75-4320-ada3-4235f5a59fa7.jpg"></img>
 
 <h1>Peramalan Waktu Pengiriman Outbound Menggunakan Random Forest Regressor</h1>
 
